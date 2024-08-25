@@ -5284,3 +5284,7 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+
+.hidden-honors {
+	display: none;
+}
