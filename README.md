@@ -6,10 +6,6 @@ Welcome to the repository for my personal website, showcasing my work experience
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This website provides an overview of my work experience, technical skills, and design projects. It includes sections for my professional background, portfolio, and contact information. The goal is to create a dynamic online presence that visually represents my skills and accomplishments.
