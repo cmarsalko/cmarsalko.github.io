@@ -1,25 +1,70 @@
-# Chase Marsalko - Personal Website
+# Chase Marsalko — Personal Website
 
-Welcome to the repository for my personal website, showcasing my work experience, skills, and projects. This website is built to serve as a professional portfolio and includes various interactive elements and responsive design.
+> Personal portfolio site built with HTML, CSS, and JavaScript. Hosted on GitHub Pages at [cmarsalko.github.io](https://cmarsalko.github.io).
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
+---
 
-## Overview
-This website provides an overview of my work experience, technical skills, and design projects. It includes sections for my professional background, portfolio, and contact information. The goal is to create a dynamic online presence that visually represents my skills and accomplishments.
+## About
 
-## Features
-- **Responsive Design**: The layout adjusts to different screen sizes and devices.
-- **Interactive Elements**: Utilizes animations and dynamic content loading with AOS (Animate On Scroll).
-- **Modern Aesthetic**: A clean, minimalist design that focuses on readability and ease of navigation.
-- **Social Media Integration**: Links to my LinkedIn, GitHub, and other professional profiles.
+This is my personal portfolio website showcasing my education, experience, projects, and skills as an Information Science student at the University of Pittsburgh's School of Computing and Information (Class of 2026).
 
-## Technologies Used
-- **HTML5 & CSS3**: Structure and styling of the site.
-- **JavaScript**: Adds interactivity and dynamic content.
-- **Bootstrap**: For responsive grid and component styling.
-- **AOS (Animate on Scroll)**: Adds animation effects for elements as they come into view.
-- **Google Fonts**: Custom typography with Montserrat font.
-- **Font Awesome**: Icons for social links and contact details.
+---
+
+## Sections
+
+- **Hero** — Introduction with headshot, GPA, Dean's List status, and LinkedIn
+- **About** — Background, current role, academic focus, and what drives me
+- **Skills** — Languages, tools & platforms, and design & creative tools
+- **Portfolio** — Featured academic and personal projects
+- **Experience** — Work history at Office Furniture Warehouse and Giant Eagle
+- **Education** — University of Pittsburgh, B.S. Information Science
+- **Certifications** — TestOut Network Pro and Ethical Hacker Pro certifications
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3 (custom properties, CSS Grid, Flexbox, animations)
+- Vanilla JavaScript (IntersectionObserver scroll reveal)
+- Google Fonts — Playfair Display, DM Sans, DM Mono
+- Hosted on GitHub Pages
+
+---
+
+## File Structure
+
+```
+cmarsalko.github.io/
+├── index.html
+├── css/
+│   └── styles.css
+├── scripts/
+│   └── main.js
+├── images/
+│   └── headshot.jpg
+├── license.txt
+└── README.md
+```
+
+---
+
+## Design
+
+Built with University of Pittsburgh colors throughout:
+- **Pitt Blue** `#003594`
+- **Pitt Gold** `#FFB81C`
+
+Fully responsive across desktop, tablet, and mobile.
+
+---
+
+## Contact
+
+- 📧 [chasemarsalko@gmail.com](mailto:chasemarsalko@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chase-marsalko-720608268/)
+- 🐙 [GitHub](https://github.com/cmarsalko)
+
+---
+
+*H2P 🐾*
